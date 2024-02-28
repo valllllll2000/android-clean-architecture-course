@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MemoryNotes</string>
+    <string name="_description_add_note_button">add note button</string>
+    <string name="title_hint">Title</string>
+    <string name="hint_content">Content</string>
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_content">Content</string>
+    <string name="placeholder_last_updated">Last Updated</string>
+    <string name="placeholder_word">Word:</string>
+</resources>
